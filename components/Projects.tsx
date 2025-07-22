@@ -41,8 +41,8 @@ export default function Projects() {
         />
         <div className="text-2xl text-white font-medium">In development..</div>
         <ProjectCard
-          link="https://github.com/kshitij-y/sellmate"
-          github="https://github.com/kshitij-y/sellmate"
+          link="http://ec2-13-61-14-231.eu-north-1.compute.amazonaws.com:3001/auth/signin"
+          github="https://github.com/kshitij-y/_sellmate"
           name="SellMate: Buy Sell and Auction"
           learning="I learned about Redux, TanStack, Better-Auth"
           desc="A website for buying and selling products and can also host Auctions"
